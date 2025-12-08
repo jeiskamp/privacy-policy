@@ -1,43 +1,153 @@
-Privacy Policy
+DoJunkie! Privacy Policy
 
-Effective Date: [Insert Date]
+Last updated: December 8, 2025
 
-DoJunkie ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the DoJunkie To-Do list and checklist app ("App"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not use the App.
-1. Company Information
+This Privacy Policy explains how DoJunkie! (“the App”) handles your data. The App is developed and maintained by Justin Eiskamp.
 
-    Company Name: DoJunkie
+DoJunkie! is a personal productivity app that helps you manage daily tasks, recurring habits, and completion streaks across your Apple devices.
 
-2. Data Collection
+By using DoJunkie!, you agree to the collection and use of information in accordance with this policy.
 
-We do not collect personal data from users. The only data available to us is what Apple provides to developers through analytics. We do not collect any sensitive personal data.
-3. Data Usage
+⸻
 
-Since we do not collect data, we do not use any data for any purposes. We do not share data with third parties, nor do we use data for advertising or marketing purposes.
-4. Data Storage and Security
+1. What We Collect
 
-    Data Storage: All data is stored locally on the user's device or in their iCloud account.
-    Data Protection: We do not use encryption or other security measures beyond what Apple provides.
-    Data Retention: We do not retain any data. Data is stored on the user's device or iCloud account and managed by the user.
+DoJunkie! is designed to store your data primarily on your device and, if enabled, in your iCloud account using Apple’s services. We do not operate our own backend server for your task data.
 
-5. User Rights
+1.1 Data You Enter in the App
 
-    Access, Correction, Deletion: Users who wish to manage their data can contact Apple directly. Our app includes a "Reset iCloud Data" feature that allows users to delete data saved in iCloud for our app.
-    Opt-Out: We only save data locally to the device needed for users to use our app. There are no data collection or processing activities to opt out of.
+We store the data you directly create in the app, including:
+	•	Checklist names and icons
+	•	Tasks and habits (titles, due dates, repeat settings, completion status)
+	•	Daily to-do items and their completion state
+	•	Streaks and basic statistics (e.g., tasks completed, current streak, longest streak)
+	•	App settings and preferences (theme, colors, notification settings, widget configurations)
 
-6. Third-Party Services
+This data is used only to provide the app’s core functionality—showing your lists, reminders, streaks, and widgets.
 
-    iCloud: Our app uses iCloud for data storage. For more information on how iCloud handles user data, please refer to Apple's Privacy Policy.
+1.2 Purchase & Entitlement Information
+
+Through Apple’s StoreKit, we receive limited information about your purchases so we can unlock premium access:
+	•	Which product you purchased (e.g., monthly subscription, annual subscription, lifetime unlock)
+	•	Whether your subscription is currently active or has expired
+
+We do not see or store your credit card number, full name, or billing address. All payment processing is handled by Apple, and we only receive the information needed to determine whether you should have premium access.
+
+1.3 Device & Diagnostic Data
+
+We may indirectly receive:
+	•	Basic device and OS information (e.g., iOS version, device model) for troubleshooting
+	•	Crash reports and usage diagnostics via Apple’s tools (if you have opted in to sharing analytics with app developers in your system settings)
+
+This information is used only to debug and improve the app experience. We do not attempt to personally identify you from this data.
+
+⸻
+
+2. Where and How Your Data Is Stored
+
+2.1 On-Device Storage
+
+Most of your data (tasks, checklists, streaks, settings) is stored locally on your device using Apple’s frameworks (e.g., SwiftData / Core Data and App Groups for widgets).
+
+If you delete the app from your device, the local app data stored on that device is removed by iOS.
+
+2.2 iCloud / CloudKit Storage (If Enabled)
+
+If you enable iCloud for DoJunkie!:
+	•	Your data may be synced via iCloud / CloudKit, which is operated by Apple.
+	•	Your data may be available across your Apple devices signed into the same Apple ID with iCloud enabled for the app.
+
+We do not have direct access to your iCloud account. Apple stores and syncs this data according to their own iCloud and Apple Privacy Policies.
+
+You can control iCloud sync for the app via:
+
+Settings → [Your Name] → iCloud → Apps Using iCloud
+
+2.3 Widgets & App Groups
+
+DoJunkie! uses widgets (such as completion heatmaps / daily summaries). These widgets read your data via Apple’s App Group / shared container so they can display your completion state on the Home or Lock Screen. This data is still tied to your device and/or iCloud, not to our own servers.
+
+⸻
+
+3. Notifications
+
+DoJunkie! can send you:
+	•	Morning reminders to begin planning your day
+	•	Evening reminders to finish tasks and plan for tomorrow
+	•	Other task-related reminders if you’ve enabled them
+
+Notifications are delivered using Apple’s notification system. You can control notifications for DoJunkie! at any time via:
+
+Settings → Notifications → DoJunkie!
+
+The app only schedules the notification times and messages you’ve configured; we do not track your exact location or other personal attributes for notifications.
+
+⸻
+
+4. How We Use Your Data
+
+We use your data solely to:
+	•	Display your checklists, daily tasks, and streaks
+	•	Power features like recurring habits, stats, and widgets
+	•	Determine whether premium features should be unlocked
+	•	Improve stability and performance via crash and diagnostic information
+
+We do not sell your data, and we do not use in-app third-party analytics or advertising SDKs (such as Firebase Analytics, Facebook SDK, etc.) as of the date of this policy.
+
+Any advertising or analytics related to App Store promotion (e.g., Apple Search Ads) is handled by Apple and governed by Apple’s policies.
+
+⸻
+
+5. Data Sharing
+
+We do not share your task data with third-party companies.
+
+Your data may be shared with:
+	•	Apple, when using iCloud, StoreKit (purchases), notifications, and system analytics
+	•	Legal authorities, if required to comply with applicable law, regulation, legal process, or enforceable governmental request
+
+We do not run our own analytics or advertising network inside the app.
+
+⸻
+
+6. Your Choices & Controls
+
+You have several ways to control your data:
+	•	Notifications: Enable or disable from in-app settings and iOS Settings.
+	•	iCloud Sync: Turn iCloud access for DoJunkie! on or off in iOS Settings.
+	•	Premium Access: Manage or cancel subscriptions through your Apple ID:
+Settings → [Your Name] → Subscriptions
+	•	Delete Data on a Device: Delete the app to remove locally stored data on that device.
+
+If you want us to address a specific privacy request (such as questions about data handling or rights under GDPR/CCPA where applicable), you can contact us directly (see Section 9).
+
+⸻
 
 7. Children’s Privacy
 
-    Intended Audience: Our app is not specifically intended for children under 13, but it is suitable for use by children under 13.
-    Data Collection from Children: We do not collect personal information from children.
+DoJunkie! is productivity app, it does not ask for age nor do we collect age information. We do not knowingly collect personal information from children under 13. If you believe that a child under 13 has provided us with personal information, please contact us so we can take appropriate action.
 
-8. Policy Updates
+⸻
 
-We may update this Privacy Policy from time to time. When we do, we will inform users via the app. The updated policy will be effective as of the date of posting.
-9. Contact Information
+8. International Users
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+Depending on where you live, you may have certain rights regarding your personal data under local law (e.g., GDPR in the EEA, UK GDPR, or similar frameworks).
 
-    Company Name: DoJunkie
+Because DoJunkie! stores data primarily on your device and in your iCloud account, most of your data remains under Apple’s infrastructure and your own direct control. However, if you have any questions about how the app handles your data or wish to exercise your rights, you can contact us using the details below.
+
+⸻
+
+9. Contact Us
+
+If you have any questions about this Privacy Policy or how DoJunkie! handles your data, please contact:
+
+Justin Eiskamp
+Email: justincodes@icloud.com
+
+⸻
+
+10. Changes to This Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the app or legal requirements. When we do, we will update the “Last updated” date at the top.
+
+We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.
